@@ -5,7 +5,7 @@ import BrandSection from './components/Egg';
 import ServicesSection from './components/aplisinlchery';
 import Partner from './components/Partner';
 import Gallery from './components/Image';
-import Counter from './components/Counter';
+
 function page() {
   return (
     <div>
