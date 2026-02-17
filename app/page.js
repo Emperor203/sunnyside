@@ -15,7 +15,7 @@ function page() {
       <ServicesSection />
       <Partner />
       <Gallery />
-      git add .
+    
 
      <Footer />
     </div>

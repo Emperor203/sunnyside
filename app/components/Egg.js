@@ -1,5 +1,5 @@
 import React from 'react';
-
+import Image from 'next/image';git add .
 export default function Sunnyside() {
   return (
     <div className="w-full overflow-hidden">
