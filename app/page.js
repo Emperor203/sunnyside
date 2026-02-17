@@ -15,7 +15,8 @@ function page() {
       <ServicesSection />
       <Partner />
       <Gallery />
-      <Counter />
+      git add .
+
      <Footer />
     </div>
   )
